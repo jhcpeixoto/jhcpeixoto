@@ -21,8 +21,6 @@ Here are some of the tools and technologies I use regularly:
 - **Cloud:** AWS (EC2, S3, Lambda), Azure
 - **Dev Tools:** Docker, Git, GitHub, GitLab, Jira, VSCode, Linux
 
-> Tip: Pin your best repositories in your GitHub profile settings so they appear prominently on your page.
-
 ## 📊 GitHub Stats
 
 You can embed dynamic stats cards to showcase your activity. For example:
