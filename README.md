@@ -21,12 +21,6 @@ Here are some of the tools and technologies I use regularly:
 - **Cloud:** AWS (EC2, S3, Lambda), Azure
 - **Dev Tools:** Docker, Git, GitHub, GitLab, Jira, VSCode, Linux
 
-## 📂 Featured projects
-
-- **[pacemaker-ai-supply-chain](https://github.com/jhcpeixoto/pacemaker-ai-supply-chain)** – Backend and frontend services for AI‑based supply chain optimization (Node.js/NestJS, Angular, PostgreSQL).  
-- **[secure-api-template](https://github.com/jhcpeixoto/secure-api-template)** – Boilerplate for building secure REST APIs with NestJS, including authentication, testing and CI/CD setup.  
-- **[angular-dashboard](https://github.com/jhcpeixoto/angular-dashboard)** – Modular dashboard built with Angular and RxJS, featuring dynamic charts and real‑time updates.  
-
 > Tip: Pin your best repositories in your GitHub profile settings so they appear prominently on your page.
 
 ## 📊 GitHub Stats
