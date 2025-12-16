@@ -1,6 +1,6 @@
 # Hi there, I'm Joaquim 👋
 
-I'm a Senior Full‑Stack Developer based in Porto, Portugal, with uma paixão por construir aplicações escaláveis e seguras. Trabalho principalmente com **Node.js** e **NestJS** no backend e **Angular** no frontend, mas tenho experiência também com Python, PHP, TypeScript e tecnologias cloud como **AWS** e **Azure**. Sou adepto de metodologias ágeis e tenho interesse em IA, automação e pentesting.
+I'm a Senior Full‑Stack Developer based in Porto, Portugal, with a passion for building scalable and secure applications. I mainly work with Node.js and NestJS on the backend and Angular on the frontend, but I also have experience with Python, PHP, TypeScript and cloud technologies such as AWS and Azure. I'm an advocate of agile methodologies and I'm interested in AI, automation and pentesting.
 
 ## 🚀 About me
 
