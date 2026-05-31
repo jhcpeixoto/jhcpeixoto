@@ -1,52 +1,41 @@
 # Hi, I'm Joaquim Peixoto
 
-Senior Full-Stack Developer based in Porto, Portugal. I build scalable, secure, and maintainable applications across backend, frontend, cloud, and automation systems.
+Senior Full-Stack Developer from Porto, Portugal, focused on building scalable, secure, and maintainable software.
 
-I mainly work with **Node.js**, **NestJS**, **TypeScript**, and **Angular**, with additional experience in **Python**, **PHP**, cloud infrastructure, AI-driven products, and security-focused engineering.
+I work mainly with **Node.js**, **NestJS**, **TypeScript**, and **Angular**, with experience across cloud infrastructure, AI-driven products, automation, and application security.
 
-## About Me
+## What I Do
 
-- Currently working on AI-driven solutions for supply chain optimization and sustainability, including projects with **pacemaker.ai by thyssenkrupp**
-- Interested in AI, automation, DevOps, cloud infrastructure, and pentesting
-- Strong focus on backend architecture, microservices, API design, and secure application development
-- Experienced working in agile teams, from product discovery to production delivery
-- Based in Porto, Portugal
+- Build backend systems, APIs, microservices, and cloud-ready applications
+- Design secure, maintainable architectures for production environments
+- Work with AI, automation, DevOps, and cloud infrastructure
+- Explore pentesting, ethical hacking, and secure development practices
+- Collaborate in agile teams from product discovery to delivery
 
 ## Tech Stack
 
-**Languages**  
-TypeScript, JavaScript, Python, PHP
+![Tech Stack](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,angular,react,nextjs,python,php,symfony,postgres,mongodb,mysql,docker,aws,azure,git,github,gitlab,linux,vscode)
 
-**Backend**  
-Node.js, NestJS, Express, Symfony
+## Main Areas
 
-**Frontend**  
-Angular, React, Next.js
+| Backend | Cloud & DevOps | Security & AI |
+|---|---|---|
+| Backend Architecture | Cloud Infrastructure | Secure Development |
+| Microservices | DevOps Automation | Pentesting |
+| API Design | Full-Stack Delivery | AI Solutions |
 
-**Databases**  
-PostgreSQL, MongoDB, MySQL
+## Current Focus
 
-**Cloud & Infrastructure**  
-AWS, Azure, Docker, Linux
+- AI-driven solutions for supply chain optimization and sustainability
+- Cloud-native backend systems
+- Secure API and infrastructure design
+- Developer productivity and automation
 
-**Tools & Workflow**  
-Git, GitHub, GitLab, Jira, VSCode, CI/CD
+## GitHub Activity
 
-## Areas I Care About
+![GitHub Streak](https://streak-stats.demolab.com?user=jhcpeixoto&theme=transparent&hide_border=true)
 
-- Scalable backend systems
-- Clean API design
-- Cloud-native architecture
-- Secure software development
-- AI-powered automation
-- Developer experience
-- Ethical hacking and security research
-
-## GitHub Stats
-
-![Joaquim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhcpeixoto&show_icons=true&hide_title=true&theme=transparent)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhcpeixoto&layout=compact&theme=transparent)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhcpeixoto&theme=transparent)
 
 ## Connect
 
@@ -56,4 +45,4 @@ Git, GitHub, GitLab, Jira, VSCode, CI/CD
 
 ---
 
-Always interested in building useful products, improving systems, and collaborating on ambitious technical ideas.
+Open to collaborating on useful products, AI systems, secure platforms, and ambitious engineering projects.
