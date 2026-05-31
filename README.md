@@ -1,33 +1,59 @@
-# Hi there, I'm Joaquim 👋
+# Hi, I'm Joaquim Peixoto
 
-I'm a Senior Full‑Stack Developer based in Porto, Portugal, with a passion for building scalable and secure applications. I mainly work with Node.js and NestJS on the backend and Angular on the frontend, but I also have experience with Python, PHP, TypeScript and cloud technologies such as AWS and Azure. I'm an advocate of agile methodologies and I'm interested in AI, automation and pentesting.
+Senior Full-Stack Developer based in Porto, Portugal. I build scalable, secure, and maintainable applications across backend, frontend, cloud, and automation systems.
 
-## 🚀 About me
+I mainly work with **Node.js**, **NestJS**, **TypeScript**, and **Angular**, with additional experience in **Python**, **PHP**, cloud infrastructure, AI-driven products, and security-focused engineering.
 
-- 🔭 I’m currently working on AI‑driven solutions to optimize supply chains and sustainability for clients such as pacemaker.ai by thyssenkrupp.
-- 🌱 I’m exploring new developments in AI, DevOps and cloud infrastructure.
-- 💬 Ask me about backend architecture, microservices, API design, frontend frameworks and software security.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joaquim-peixoto) · [Email](mailto:your.email@example.com)  
-- ⚡ Fun fact: I enjoy participating in hackathons and exploring ethical hacking challenges.
+## About Me
 
-## 🛠️ Tech stack
+- Currently working on AI-driven solutions for supply chain optimization and sustainability, including projects with **pacemaker.ai by thyssenkrupp**
+- Interested in AI, automation, DevOps, cloud infrastructure, and pentesting
+- Strong focus on backend architecture, microservices, API design, and secure application development
+- Experienced working in agile teams, from product discovery to production delivery
+- Based in Porto, Portugal
 
-Here are some of the tools and technologies I use regularly:
+## Tech Stack
 
-- **Languages:** TypeScript, JavaScript, Python, PHP
-- **Backend:** Node.js, NestJS, Express, Symfony
-- **Frontend:** Angular, Next.js, React
-- **Databases:** PostgreSQL, MongoDB, MySQL
-- **Cloud:** AWS (EC2, S3, Lambda), Azure
-- **Dev Tools:** Docker, Git, GitHub, GitLab, Jira, VSCode, Linux
+**Languages**  
+TypeScript, JavaScript, Python, PHP
 
-## 📊 GitHub Stats
+**Backend**  
+Node.js, NestJS, Express, Symfony
 
-You can embed dynamic stats cards to showcase your activity. For example:
+**Frontend**  
+Angular, React, Next.js
 
-![Joaquim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhcpeixoto&show_icons=true&hide_title=true)  
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhcpeixoto&layout=compact)
+**Databases**  
+PostgreSQL, MongoDB, MySQL
+
+**Cloud & Infrastructure**  
+AWS, Azure, Docker, Linux
+
+**Tools & Workflow**  
+Git, GitHub, GitLab, Jira, VSCode, CI/CD
+
+## Areas I Care About
+
+- Scalable backend systems
+- Clean API design
+- Cloud-native architecture
+- Secure software development
+- AI-powered automation
+- Developer experience
+- Ethical hacking and security research
+
+## GitHub Stats
+
+![Joaquim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhcpeixoto&show_icons=true&hide_title=true&theme=transparent)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhcpeixoto&layout=compact&theme=transparent)
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/joaquim-peixoto)
+- [GitHub](https://github.com/jhcpeixoto)
+- Email: `geral@joaquimcerqueira.pt`
 
 ---
 
-Thank you for visiting my profile! If you like my work or want to collaborate, feel free to connect or leave a message.
+Always interested in building useful products, improving systems, and collaborating on ambitious technical ideas.
